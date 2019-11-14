@@ -1,5 +1,20 @@
-usr=juanr&amp;nom=Juan Rodriguez&amp;txt=hola estoy feliz de estar aquí en el #lago 
-usr=juanr&amp;nom=Juan Rodriguez&amp;txt=hola estoy feliz de estar aquí en el #lago
-usr=lolalinda&amp;nom=Lolita Turres&amp;txt=hola estoy feliz de estar aquí en el #lago
-usr=francisb&amp;nom=Francisca Benini&amp;txt=hola estoy feliz de estar aquí en el #lago
-usr=juanr&amp;nom=Juan Rodriguez&amp;txt=hola estoy feliz de estar aquí en el #lago
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=hola estoy feliz de estar aquí en el #lago
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Estoy muy #cansado hoy
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Me gusta estudiar #ingenieria
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Ayer salio la nueva #computadora Macbook pro
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Mi telefono  utiliza un sistema operativo #android
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=El dia de hoy el #lago esta muy frio
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Mi catedratico se notaba #cansado el dia de hoy
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=#ingenieria es una de las mejores carreras que hay
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=trabajar con su #computadora es esencial para un ingeniero
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=El ingeniero no termina su #clase
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=El viernes es el ultimo dia que recibo mi #clase
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Servidores importante utilizan #linux
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=#linux fue creado por Linus Torvald
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=microsoft utiliza servidores #linux
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=la #computadora mas famosa es de marca apple
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=#ingenieria es una de las facultades mas grandes
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=las clases de #redes son importantes
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=todos tenemos #redes de computadoras en nuestras casas
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=me gusta comer #hamburguesas
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=las #hamburguesas de carls jr son las mejores

@@ -1,0 +1,3 @@
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=hola estoy feliz de estar aquí en el #lago
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Estoy muy #cansado hoy
+usr=d_masaya&amp;nom=Dennis Masaya&amp;txt=Me gusta estudiar #ingenieria
